@@ -16,6 +16,9 @@ Skills related to business requirements.
   - [`business-analyst`](business-requirements-skills/elicitation/business-analyst/) — Full business process analysis document
   - [`requirements-orchestrator`](business-requirements-skills/elicitation/requirements-orchestrator/) — Orchestrates the full pipeline
 
+- **[`review/`](business-requirements-skills/review/)** — Requirements review and compliance:
+  - [`bt-tz-compliance-review`](business-requirements-skills/review/bt-tz-compliance-review/) — Check Technical Specification against Business Requirements, build traceability matrix, find gaps, distortions and excesses
+
 ### [`product-skills/`](product-skills/)
 Product-oriented utility skills:
 
@@ -45,6 +48,9 @@ Each skill is self-contained in its own folder with a `SKILL.md` file.
   - [`task-formulator`](business-requirements-skills/elicitation/task-formulator/) — Формулировка короткого промпта для бизнес-анализа
   - [`business-analyst`](business-requirements-skills/elicitation/business-analyst/) — Полный документ бизнес-анализа процесса
   - [`requirements-orchestrator`](business-requirements-skills/elicitation/requirements-orchestrator/) — Оркестрация полного конвейера
+
+- **[`review/`](business-requirements-skills/review/)** — Ревью и проверка соответствия требований:
+  - [`bt-tz-compliance-review`](business-requirements-skills/review/bt-tz-compliance-review/) — Проверка соответствия Технического задания Бизнес-требованиям, построение матрицы трассируемости, выявление пропусков, искажений и избыточностей
 
 ### [`product-skills/`](product-skills/)
 Утилитарные продуктовые навыки:

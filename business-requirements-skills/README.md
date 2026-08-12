@@ -14,7 +14,11 @@ Pipeline for collecting and processing business requirements:
 4. [`business-analyst`](elicitation/business-analyst/) — Produce a full business analysis document
 5. [`requirements-orchestrator`](elicitation/requirements-orchestrator/) — Orchestrate the full end-to-end pipeline
 
-Future skills (e.g. requirements review) will live in sibling folders inside `business-requirements-skills/`.
+## [`review/`](review/)
+
+Skills for reviewing and validating requirements artifacts:
+
+- [`bt-tz-compliance-review`](review/bt-tz-compliance-review/) — Check Technical Specification (ТЗ) against Business Requirements (БТ), build traceability matrix, detect gaps, meaning distortions, excesses and conflicts
 
 ---
 
@@ -32,4 +36,8 @@ Future skills (e.g. requirements review) will live in sibling folders inside `bu
 4. [`business-analyst`](elicitation/business-analyst/) — Формирование полного документа бизнес-анализа
 5. [`requirements-orchestrator`](elicitation/requirements-orchestrator/) — Оркестрация полного конвейера от начала до конца
 
-Будущие навыки (например, ревью требований) будут располагаться в соседних папках внутри `business-requirements-skills/`.
+## [`review/`](review/)
+
+Навыки для ревью и валидации артефактов требований:
+
+- [`bt-tz-compliance-review`](review/bt-tz-compliance-review/) — Проверка соответствия Технического задания (ТЗ) Бизнес-требованиям (БТ), построение матрицы трассируемости, выявление пропусков, искажений смысла, избыточностей и конфликтов
